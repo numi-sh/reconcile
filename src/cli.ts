@@ -10,8 +10,8 @@ export interface Io {
 
 const USAGE = [
   'usage: numi-reconcile <file.json>',
-  'The file holds { "total": <revenue>, "segments": [{ "name", "revenue", "axis"?, "kind"? }] }, or an array of them.',
-  'Exits 0 when every input reconciles, 1 when one does not, and 2 when the file cannot be read.',
+  'The file is { "total": <revenue>, "segments": [{ "name", "revenue", "axis"?, "kind"? }] }, or an array of them.',
+  'Exits 0 when every input reconciles, 1 when an input does not reconcile or is not valid, and 2 when the file cannot be read, is not JSON or has no input.',
 ].join('\n');
 
 const SEGMENTS_SHAPE = 'segments must be an array of { name, revenue, axis?, kind? }';
@@ -69,7 +69,7 @@ export function run(args: string[], io: Io): number {
   }
   const inputs: unknown[] = Array.isArray(parsed) ? parsed : [parsed];
   if (inputs.length === 0) {
-    io.err(`numi-reconcile: ${path} holds no input`);
+    io.err(`numi-reconcile: ${path} is an empty array. Give at least one input.`);
     return 2;
   }
 

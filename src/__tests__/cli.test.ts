@@ -94,7 +94,7 @@ describe('numi-reconcile', () => {
     expect(broken.err[0]).toMatch(/is not JSON/);
     const empty = cli([file([])]);
     expect(empty.code).toBe(2);
-    expect(empty.err[0]).toMatch(/holds no input/);
+    expect(empty.err[0]).toMatch(/is an empty array\. Give at least one input\./);
     const missing = cli([join(dir, 'nothing.json')]);
     expect(missing.code).toBe(2);
     expect(missing.err[0]).toMatch(/cannot be read/);
