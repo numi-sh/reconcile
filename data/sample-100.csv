@@ -1,0 +1,962 @@
+cik,ticker,name,filing_date,period_end,axis,member,label,kind,revenue,revenue_total,reconciliation
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,business,abt:MedicalDevicesMember,Medical Devices,segment,21387000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,business,abt:DiagnosticProductsMember,Diagnostic Products,segment,8937000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,business,abt:NutritionalProductsMember,Nutritional Products,segment,8451000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,business,abt:EstablishedPharmaceuticalProductsMember,Established Pharmaceutical Products,segment,5536000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,17000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,country:US,United States,segment,17126000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,abt:AllOtherCountriesMember,All Other Countries,segment,15979000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,country:DE,Germany,segment,2759000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,country:CN,China,segment,1907000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,country:CH,Switzerland,segment,1871000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,country:IN,India,segment,1871000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,country:JP,Japan,segment,1475000000,44328000000,reconciled
+0000001800,ABT,ABBOTT LABORATORIES,2026-02-20,2025-12-31,geography,country:GB,United Kingdom,segment,1340000000,44328000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,business,axp:USConsumerServicesSegmentMember,US Consumer Services,segment,15626000000,41304000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,business,axp:CommercialServicesSegmentMember,Commercial Services,segment,11856000000,41304000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,business,axp:InternationalCardServicesSegmentMember,International Card Services,segment,7544000000,41304000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,business,axp:GlobalMerchantAndNetworkServicesSegmentMember,Global Merchant and Network Services,segment,6306000000,41304000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,geography,country:US,United States,segment,56015000000,72229000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,7073000000,72229000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,geography,axp:APACGeographicRegionMember,APAC Geographic Region,segment,5218000000,72229000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,geography,axp:LaccGeographicRegionMember,Lacc Geographic Region,segment,4194000000,72229000000,reconciled
+0000004962,AXP,AMERICAN EXPRESS CO,2026-02-06,2025-12-31,geography,axp:OtherUnallocatedMember,Other Unallocated,segment,-271000000,72229000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,business,adm:AgServicesandOilseedsMember,Ag Servicesand Oilseeds,segment,61571000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,business,adm:CarbohydrateSolutionsMember,Carbohydrate Solutions,segment,10737000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,business,adm:NutritionMember,Nutrition,segment,7512000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,2621000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,449000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,country:US,United States,segment,31175000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,country:CH,Switzerland,segment,17793000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,adm:OtherForeignMember,Other Foreign,segment,15227000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,country:KY,Cayman Islands,segment,6093000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,country:BR,Brazil,segment,3358000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,country:MX,Mexico,segment,2741000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,country:GB,United Kingdom,segment,2115000000,80269000000,reconciled
+0000007084,ADM,Archer-Daniels-Midland Co,2026-02-17,2025-12-31,geography,country:CA,Canada,segment,1767000000,80269000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,business,ba:CommercialAirplanesSegmentMember,Commercial Airplanes,segment,41494000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,business,ba:DefenseSpaceAndSecuritySegmentMember,Defense Space and Security,segment,27234000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,business,ba:GlobalServicesSegmentMember,Global Services,segment,20923000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,product,us-gaap:ProductMember,Product,segment,75356000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,product,us-gaap:ServiceMember,Service,segment,14107000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,country:US,United States,segment,48083000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,srt:AsiaMember,Asia,segment,16466000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,srt:EuropeMember,Europe,segment,11419000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,us-gaap:MiddleEastMember,Middle East,segment,7023000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,country:CA,Canada,segment,1781000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,srt:AfricaMember,Africa,segment,1625000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,ba:OceaniaMember,Oceania,segment,1587000000,89463000000,reconciled
+0000012927,BA,BOEING CO,2026-01-30,2025-12-31,geography,srt:LatinAmericaMember,Latin America,segment,1479000000,89463000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,business,cat:PowerEnergyMember,Power Energy,segment,32201000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,business,cat:ConstructionIndustriesMember,Construction Industries,segment,25060000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,business,cat:ResourceIndustriesMember,Resource Industries,segment,12474000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,business,cat:FinancialProductsSegmentMember,Financial Products,segment,4220000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,business,us-gaap:AllOtherSegmentsMember,All Other,segment,327000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,-805000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-5888000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,product,cat:MachineryPowerEnergyMember,Machinery Power Energy,segment,63980000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,product,cat:FinancialProductsMember,Financial Products,segment,3609000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,geography,srt:NorthAmericaMember,North America,segment,36609000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,12793000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,11199000000,67589000000,reconciled
+0000018230,CAT,CATERPILLAR INC,2026-02-13,2025-12-31,geography,srt:LatinAmericaMember,Latin America,segment,6988000000,67589000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,business,jpm:CommercialAndInvestmentBankMember,Commercial and Investment Bank,segment,78454000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,business,jpm:ConsumerCommunityBankingMember,Consumer Community Banking,segment,76029000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,business,jpm:AssetandWealthManagementSegmentMember,Assetand Wealth Management,segment,24073000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,7025000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,-3134000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,geography,srt:NorthAmericaMember,North America,segment,139689000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,24478000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,14065000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,geography,srt:LatinAmericaMember,Latin America,segment,4215000000,182447000000,reconciled
+0000019617,JPM,JPMORGAN CHASE & CO,2026-02-13,2025-12-31,geography,country:GB,United Kingdom,segment,,182447000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,business,tgt:ReportableSegmentMember,Reportable,segment,104780000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,us-gaap:FoodAndBeverageMember,Food and Beverage,segment,24136000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:HouseholdEssentialsMember,Household Essentials,segment,18017000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:HardlinesMember,Hardlines,segment,15800000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:ApparelAndAccessoriesMember,Apparel and Accessories,segment,15737000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:HomeFurnishingsAndDecorMember,Home Furnishings and Decor,segment,15608000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:BeautyMember,Beauty,segment,13214000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:AdvertisingRevenueMember,Advertising Revenue,segment,915000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:OtherOtherRevenueMember,Other Other Revenue,segment,626000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:CreditCardProfitSharingMember,Credit Card Profit Sharing,segment,522000000,104780000000,reconciled
+0000027419,TGT,TARGET CORP,2026-03-11,2026-01-31,product,tgt:OtherProductMember,Other Product,segment,205000000,104780000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,business,dal:AirlineMember,Airline,segment,58287000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,business,dal:RefineryMember,Refinery,segment,6961000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-1884000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,dal:PassengerAirTrafficMember,Passenger Air Traffic,segment,45488000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,dal:ProductAndServiceOtherRefineryMember,Product and Service Other Refinery,segment,5077000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,dal:PassengerLoyaltyTravelAwardsMember,Passenger Loyalty Travel Awards,segment,4237000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,dal:ProductAndServiceOtherLoyaltyProgramMember,Product and Service Other Loyalty Program,segment,3362000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,dal:PassengerTravelRelatedServicesMember,Passenger Travel Related Services,segment,2043000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,dal:ProductAndServiceOtherMiscellaneousMember,Product and Service Other Miscellaneous,segment,1320000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,dal:ProductAndServiceOtherAncillaryBusinessesMember,Product and Service Other Ancillary Businesses,segment,937000000,63364000000,reconciled
+0000027904,DAL,"DELTA AIR LINES, INC.",2026-02-10,2025-12-31,product,us-gaap:CargoAndFreightMember,Cargo and Freight,segment,900000000,63364000000,reconciled
+0000029534,DG,DOLLAR GENERAL CORP,2026-03-20,2026-01-30,business,dg:SingleReportableSegmentMember,Single Reportable,segment,42724369000,42724369000,reconciled
+0000029534,DG,DOLLAR GENERAL CORP,2026-03-20,2026-01-30,product,dg:ConsumablesMember,Consumables,segment,35053180000,42724369000,reconciled
+0000029534,DG,DOLLAR GENERAL CORP,2026-03-20,2026-01-30,product,dg:SeasonalMember,Seasonal,segment,4327364000,42724369000,reconciled
+0000029534,DG,DOLLAR GENERAL CORP,2026-03-20,2026-01-30,product,dg:HomeProductsMember,Home Products,segment,2213521000,42724369000,reconciled
+0000029534,DG,DOLLAR GENERAL CORP,2026-03-20,2026-01-30,product,dg:ApparelMember,Apparel,segment,1130304000,42724369000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,business,gd:MarineSystemsMember,Marine Systems,segment,16723000000,52550000000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,business,gd:TechnologiesMember,Technologies,segment,13471000000,52550000000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,business,gd:AerospaceMember,Aerospace,segment,13110000000,52550000000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,business,gd:CombatSystemsMember,Combat Systems,segment,9246000000,52550000000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,0,52550000000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,product,us-gaap:ProductMember,Product,segment,33021000000,52550000000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,product,us-gaap:ServiceMember,Service,segment,19529000000,52550000000,reconciled
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,geography,country:US,United States,segment,43314000000,52550000000,over
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,5400000000,52550000000,over
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,geography,srt:EuropeMember,Europe,segment,3540000000,52550000000,over
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,geography,gd:OtherAfricaMiddleEastMember,Other Africa Middle East,segment,2015000000,52550000000,over
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,2001000000,52550000000,over
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,geography,gd:OtherNorthAmericaMember,Other North America,segment,1248000000,52550000000,over
+0000040533,GD,GENERAL DYNAMICS CORP,2026-01-30,2025-12-31,geography,srt:SouthAmericaMember,South America,segment,432000000,52550000000,over
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,business,ge:CommercialEnginesAndServicesReportableSegmentMember,Commercial Engines and Services Reportable,segment,33252000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,business,ge:DefenseAndPropulsionTechnologiesReportableSegmentMember,Defense and Propulsion Technologies Reportable,segment,8868000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,3735000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,1748000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,product,us-gaap:ServiceMember,Service,segment,30436000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,product,us-gaap:ProductMember,Product,segment,13433000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,geography,country:US,United States,segment,18194000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,geography,srt:AsiaMember,Asia,segment,10819000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,geography,srt:EuropeMember,Europe,segment,8603000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,geography,ge:MiddleEastAndAfricaMember,Middle East and Africa,segment,4575000000,45855000000,reconciled
+0000040545,GE,GENERAL ELECTRIC CO,2026-01-29,2025-12-31,geography,ge:AmericasExcludingU.S.Member,Americas Excluding U S,segment,3664000000,45855000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,business,hpq:PersonalSystemsMember,Personal Systems,segment,38532000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,business,hpq:PrintingMember,Printing,segment,16702000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,business,hpq:CorporateInvestmentsMember,Corporate Investments,segment,62000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,-1000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,product,us-gaap:ProductMember,Product,segment,52002000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,product,us-gaap:ServiceMember,Service,segment,3293000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,geography,srt:AmericasMember,Americas,segment,23545000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,geography,us-gaap:EMEAMember,EMEA,segment,18596000000,55295000000,reconciled
+0000047217,HPQ,HP INC,2025-12-10,2025-10-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,13154000000,55295000000,reconciled
+0000049071,HUM,HUMANA INC,2026-02-19,2025-12-31,business,hum:InsuranceSegmentMember,Insurance,segment,124563000000,129664000000,reconciled
+0000049071,HUM,HUMANA INC,2026-02-19,2025-12-31,business,hum:CenterWellSegmentMember,Center Well,segment,22473000000,129664000000,reconciled
+0000049071,HUM,HUMANA INC,2026-02-19,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-17661000000,129664000000,reconciled
+0000049071,HUM,HUMANA INC,2026-02-19,2025-12-31,product,hum:ExternalRevenuesMember,External Revenues,segment,128658000000,129664000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,business,intc:ClientComputingGroupMember,Client Computing Group,segment,32228000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,business,intc:IntelFoundryMember,Intel Foundry,segment,17826000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,business,intc:DatacenterAndAIMember,Datacenter and AI,segment,16919000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,business,us-gaap:AllOtherSegmentsMember,All Other,segment,3563000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-17683000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,geography,country:US,United States,segment,15757000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,geography,intc:ChinaIncludingHongKongMember,China Including Hong Kong,segment,12694000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,geography,country:SG,Singapore,segment,9535000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,geography,country:TW,Taiwan,segment,7672000000,52853000000,reconciled
+0000050863,INTC,INTEL CORP,2026-01-22,2025-12-27,geography,intc:OtherCountriesMember,Other Countries,segment,7195000000,52853000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,business,ibm:SoftwareMember,Software,segment,29962000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,business,ibm:ConsultingMember,Consulting,segment,21055000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,business,ibm:InfrastructureMember,Infrastructure,segment,15718000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,business,ibm:FinancingMember,Financing,segment,737000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,product,us-gaap:ProductMember,Product,segment,36085000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,product,us-gaap:TechnologyServiceMember,Technology Service,segment,30714000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,product,us-gaap:FinancialServiceMember,Financial Service,segment,737000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,geography,srt:AmericasMember,Americas,segment,33342000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,22189000000,67535000000,reconciled
+0000051143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,2026-02-24,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,12004000000,67535000000,reconciled
+0000056873,KR,KROGER CO,2026-03-31,2026-01-31,business,us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember,Reportable Segment Aggregation Before Other Operating,segment,147642000000,147642000000,reconciled
+0000056873,KR,KROGER CO,2026-03-31,2026-01-31,product,kr:NonPerishableMember,Non-Perishable,segment,77569000000,147642000000,reconciled
+0000056873,KR,KROGER CO,2026-03-31,2026-01-31,product,kr:PerishableMember,Perishable,segment,37189000000,147642000000,reconciled
+0000056873,KR,KROGER CO,2026-03-31,2026-01-31,product,kr:PharmacyMember,Pharmacy,segment,18171000000,147642000000,reconciled
+0000056873,KR,KROGER CO,2026-03-31,2026-01-31,product,kr:SupermarketFuelMember,Supermarket Fuel,segment,13584000000,147642000000,reconciled
+0000056873,KR,KROGER CO,2026-03-31,2026-01-31,product,kr:OtherProductMember,Other Product,segment,1129000000,147642000000,reconciled
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,business,lly:ReportableSegmentMember,Reportable,segment,65179000000,65179000000,reconciled
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,product,us-gaap:ProductMember,Product,segment,60958000000,65179000000,over
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,product,lly:CollaborationandOtherRevenueMember,Collaborationand Other Revenue,segment,4221000000,65179000000,over
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,product,lly:JardianceMember,Jardiance,segment,3432000000,65179000000,over
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,geography,country:US,United States,segment,43481000000,65179000000,reconciled
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,geography,srt:EuropeMember,Europe,segment,11558000000,65179000000,reconciled
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,geography,lly:RestOfWorldMember,Rest of World,segment,6057000000,65179000000,reconciled
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,geography,country:JP,Japan,segment,2132000000,65179000000,reconciled
+0000059478,LLY,ELI LILLY & Co,2026-02-12,2025-12-31,geography,country:CN,China,segment,1951000000,65179000000,reconciled
+0000060667,LOW,LOWES COMPANIES INC,2026-03-23,2026-01-30,business,low:ReportableSegmentMember,Reportable,segment,84078000000,86286000000,reconciled
+0000060667,LOW,LOWES COMPANIES INC,2026-03-23,2026-01-30,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,2208000000,86286000000,reconciled
+0000060667,LOW,LOWES COMPANIES INC,2026-03-23,2026-01-30,product,us-gaap:ProductMember,Product,segment,82352000000,86286000000,reconciled
+0000060667,LOW,LOWES COMPANIES INC,2026-03-23,2026-01-30,product,us-gaap:ServiceMember,Service,segment,2542000000,86286000000,reconciled
+0000060667,LOW,LOWES COMPANIES INC,2026-03-23,2026-01-30,product,us-gaap:ProductAndServiceOtherMember,Product and Service Other,segment,1392000000,86286000000,reconciled
+0000060667,LOW,LOWES COMPANIES INC,2026-03-23,2026-01-30,geography,country:US,United States,segment,86225000000,86286000000,reconciled
+0000060667,LOW,LOWES COMPANIES INC,2026-03-23,2026-01-30,geography,country:CA,Canada,segment,61000000,86286000000,reconciled
+0000064803,CVS,CVS HEALTH Corp,2026-02-10,2025-12-31,business,cvs:HealthServicesSegmentMember,Health Services,segment,190425000000,402067000000,reconciled
+0000064803,CVS,CVS HEALTH Corp,2026-02-10,2025-12-31,business,cvs:HealthCareBenefitsSegmentMember,Health Care Benefits,segment,143354000000,402067000000,reconciled
+0000064803,CVS,CVS HEALTH Corp,2026-02-10,2025-12-31,business,cvs:PharmacyAndConsumerHealthSegmentMember,Pharmacy and Consumer Health,segment,139367000000,402067000000,reconciled
+0000064803,CVS,CVS HEALTH Corp,2026-02-10,2025-12-31,business,cvs:CorporateAndOtherSegmentMember,Corporate and Other,segment,,402067000000,reconciled
+0000064803,CVS,CVS HEALTH Corp,2026-02-10,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-71563000000,402067000000,reconciled
+0000064803,CVS,CVS HEALTH Corp,2026-02-10,2025-12-31,product,us-gaap:ProductMember,Product,segment,249908000000,402067000000,under
+0000064803,CVS,CVS HEALTH Corp,2026-02-10,2025-12-31,product,us-gaap:ServiceMember,Service,segment,15175000000,402067000000,under
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,business,wfc:ConsumerBankingAndLendingMember,Consumer Banking and Lending,segment,37362000000,83699000000,reconciled
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,business,wfc:CorporateAndInvestmentBankingMember,Corporate and Investment Banking,segment,19232000000,83699000000,reconciled
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,business,wfc:WealthAndInvestmentManagementMember,Wealth and Investment Management,segment,16328000000,83699000000,reconciled
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,business,wfc:CommercialBankingMember,Commercial Banking,segment,11978000000,83699000000,reconciled
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,747000000,83699000000,reconciled
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-1948000000,83699000000,reconciled
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,product,us-gaap:InvestmentAdvisoryManagementAndAdministrativeServiceMember,Investment Advisory Management and Administrative Service,segment,10498000000,83699000000,under
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,product,us-gaap:DepositAccountMember,Deposit Account,segment,5099000000,83699000000,under
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,product,us-gaap:CreditCardMerchantDiscountMember,Credit Card Merchant Discount,segment,3973000000,83699000000,under
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,product,us-gaap:InvestmentAdviceMember,Investment Advice,segment,3027000000,83699000000,under
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,product,wfc:CommissionsAndBrokerageServiceFeesMember,Commissions and Brokerage Service Fees,segment,2556000000,83699000000,under
+0000072971,WFC,WELLS FARGO & COMPANY/MN,2026-02-24,2025-12-31,product,wfc:TrailingCommissionMember,Trailing Commission,segment,945000000,83699000000,under
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,business,pep:PepsiCoBeveragesNorthAmericaMember,Pepsi Co Beverages North America,segment,28197000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,business,pep:PepsiCoFoodsNorthAmericaMember,Pepsi Co Foods North America,segment,27528000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,business,pep:EuropeMiddleEastAfricaSegmentMember,Europe Middle East Africa,segment,18025000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,business,pep:LatinAmericaFoodsSegmentMember,Latin America Foods,segment,10549000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,business,pep:InternationalBeverageFranchiseMember,International Beverage Franchise,segment,4997000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,business,pep:AsiaPacificFoodsSegmentMember,Asia Pacific Foods,segment,4629000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:US,United States,segment,52228000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,pep:AllOtherCountriesMember,All Other Countries,segment,17941000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:MX,Mexico,segment,6947000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:RU,Russia,segment,4768000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:CA,Canada,segment,3729000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:CN,China,segment,2621000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:GB,United Kingdom,segment,2142000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:BR,Brazil,segment,1782000000,93925000000,reconciled
+0000077476,PEP,PEPSICO INC,2026-02-02,2025-12-27,geography,country:ZA,South Africa,segment,1767000000,93925000000,reconciled
+0000078003,PFE,PFIZER INC,2026-02-26,2025-12-31,business,pfe:BiopharmaSegmentMember,Biopharma,segment,61199000000,62579000000,reconciled
+0000078003,PFE,PFIZER INC,2026-02-26,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,1380000000,62579000000,reconciled
+0000078003,PFE,PFIZER INC,2026-02-26,2025-12-31,product,pfe:PfizerCentreOneMember,Pfizer Centre One,segment,1338000000,62579000000,under
+0000078003,PFE,PFIZER INC,2026-02-26,2025-12-31,product,pfe:PfizerIgniteMember,Pfizer Ignite,segment,41000000,62579000000,under
+0000078003,PFE,PFIZER INC,2026-02-26,2025-12-31,geography,country:US,United States,segment,37078000000,62579000000,reconciled
+0000078003,PFE,PFIZER INC,2026-02-26,2025-12-31,geography,pfe:InternationalDevelopedMarketsMember,International Developed Markets,segment,16188000000,62579000000,reconciled
+0000078003,PFE,PFIZER INC,2026-02-26,2025-12-31,geography,pfe:InternationalEmergingMarketsMember,International Emerging Markets,segment,9313000000,62579000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,business,pg:FabricHomeCareSegmentMember,Fabric Home Care,segment,30314000000,87032000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,business,pg:BabyFeminineFamilyCareSegmentMember,Baby Feminine Family Care,segment,20401000000,87032000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,business,pg:BeautySegmentMember,Beauty,segment,16023000000,87032000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,business,pg:HealthCareSegmentMember,Health Care,segment,12456000000,87032000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,business,pg:GroomingSegmentMember,Grooming,segment,6918000000,87032000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,919000000,87032000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,geography,us-gaap:NonUsMember,Non-US,segment,45300000000,87032000000,reconciled
+0000080424,PG,PROCTER & GAMBLE Co,2026-08-04,2026-06-30,geography,country:US,United States,segment,41700000000,87032000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,business,slb:ProductionSystemsMember,Production Systems,segment,13325000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,business,slb:WellConstructionMember,Well Construction,segment,11856000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,business,slb:ReservoirPerformanceMember,Reservoir Performance,segment,6820000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,business,slb:DigitalIntegrationMember,Digital Integration,segment,2660000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,business,us-gaap:AllOtherSegmentsMember,All Other,segment,1987000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,business,slb:EliminationsOtherMember,Eliminations Other,segment,-940000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,product,us-gaap:ServiceMember,Service,segment,21200000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,product,us-gaap:ProductMember,Product,segment,14508000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,geography,us-gaap:MiddleEastMember,Middle East,segment,12218000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,geography,slb:EuropeAfricaMember,Europe Africa,segment,9572000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,geography,srt:NorthAmericaMember,North America,segment,7515000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,geography,srt:LatinAmericaMember,Latin America,segment,6152000000,35708000000,reconciled
+0000087347,SLB,SLB LIMITED/NV,2026-01-23,2025-12-31,geography,slb:OtherCountriesMember,Other Countries,segment,251000000,35708000000,reconciled
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,business,us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember,Reportable Segment Aggregation Before Other Operating,segment,188387000000,189031000000,reconciled
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,business,us-gaap:AllOtherSegmentsMember,All Other,segment,644000000,189031000000,reconciled
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,business,cvx:UpstreamSegmentMember,Upstream,segment,,189031000000,reconciled
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,business,cvx:DownstreamSegmentMember,Downstream,segment,,189031000000,reconciled
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,0,189031000000,reconciled
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,,189031000000,reconciled
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,geography,country:US,United States,segment,,189031000000,unknown
+0000093410,CVX,CHEVRON CORP,2026-02-24,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,,189031000000,unknown
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,business,syy:U.S.FoodserviceOperationsMember,U S Foodservice Operations,segment,58803000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,business,syy:InternationalFoodserviceOperationsMember,International Foodservice Operations,segment,16042000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,business,syy:SygmaSegmentMember,Sygma,segment,8623000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,business,us-gaap:AllOtherSegmentsMember,All Other,segment,1085000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:FreshAndFrozenMeats1Member,Fresh and Frozen Meats 1,segment,17103000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:CannedAndDryProducts1Member,Canned and Dry Products 1,segment,15030000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:FrozenFruitsVegetablesBakeryAndOther1Member,Frozen Fruits Vegetables Bakery and Other 1,segment,12684000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:DairyProducts1Member,Dairy Products 1,segment,8289000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:Poultry1Member,Poultry 1,segment,7907000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:FreshProduce1Member,Fresh Produce 1,segment,6960000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:PaperAndDisposables1Member,Paper and Disposables 1,segment,5627000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:BeverageProducts1Member,Beverage Products 1,segment,3208000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:Seafood1Member,Seafood 1,segment,3062000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:OtherProductsMember,Other Products,segment,2767000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,product,syy:EquipmentAndSmallwaresMember,Equipment and Smallwares,segment,1916000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,geography,country:US,United States,segment,68108000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,geography,country:CA,Canada,segment,6513000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,geography,country:GB,United Kingdom,segment,4487000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,geography,syy:OtherGeographicAreasMember,Other Geographic Areas,segment,2516000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,geography,country:FR,France,segment,1897000000,84553000000,reconciled
+0000096021,SYY,SYSCO CORP,2026-08-21,2026-06-27,geography,country:SE,Sweden,segment,1032000000,84553000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,business,tmo:LaboratoryProductsAndBiopharmaServicesMember,Laboratory Products and Biopharma Services,segment,23818000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,business,tmo:LifeSciencesSolutionsMember,Life Sciences Solutions,segment,8781000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,business,tmo:AnalyticalInstrumentsMember,Analytical Instruments,segment,7353000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,business,tmo:SpecialtyDiagnosticsMember,Specialty Diagnostics,segment,4604000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,2033000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-2033000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,product,tmo:ConsumablesMember,Consumables,segment,18664000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,product,us-gaap:ServiceMember,Service,segment,18592000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,product,tmo:InstrumentsMember,Instruments,segment,7301000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,22316000000,44556000000,reconciled
+0000097745,TMO,THERMO FISHER SCIENTIFIC INC.,2026-02-26,2025-12-31,geography,country:US,United States,segment,22240000000,44556000000,reconciled
+0000100493,TSN,"TYSON FOODS, INC.",2025-11-10,2025-09-27,business,tsn:BeefMember,Beef,segment,21623000000,54441000000,reconciled
+0000100493,TSN,"TYSON FOODS, INC.",2025-11-10,2025-09-27,business,tsn:ChickenMember,Chicken,segment,16837000000,54441000000,reconciled
+0000100493,TSN,"TYSON FOODS, INC.",2025-11-10,2025-09-27,business,tsn:PreparedFoodsMember,Prepared Foods,segment,9930000000,54441000000,reconciled
+0000100493,TSN,"TYSON FOODS, INC.",2025-11-10,2025-09-27,business,tsn:PorkMember,Pork,segment,5781000000,54441000000,reconciled
+0000100493,TSN,"TYSON FOODS, INC.",2025-11-10,2025-09-27,business,us-gaap:CorporateAndOtherMember,Corporate and Other,segment,2291000000,54441000000,reconciled
+0000100493,TSN,"TYSON FOODS, INC.",2025-11-10,2025-09-27,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-2021000000,54441000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,business,rtx:PrattAndWhitneyMember,Pratt and Whitney,segment,32916000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,business,rtx:CollinsAerospaceMember,Collins Aerospace,segment,30196000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,business,rtx:RaytheonMember,Raytheon,segment,28043000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,business,us-gaap:AllOtherSegmentsMember,All Other,segment,-2552000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-2552000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,product,us-gaap:ProductMember,Product,segment,64171000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,product,us-gaap:ServiceMember,Service,segment,24432000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,geography,country:US,United States,segment,47291000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,geography,srt:EuropeMember,Europe,segment,18799000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,13782000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,geography,rtx:OtherGeographicRegionsMember,Other Geographic Regions,segment,5110000000,88603000000,reconciled
+0000101829,RTX,RTX Corp,2026-02-06,2025-12-31,geography,rtx:MiddleEastAndNorthAfricaMember,Middle East and North Africa,segment,3621000000,88603000000,reconciled
+0000104169,WMT,Walmart Inc.,2026-03-13,2026-01-31,business,wmt:WalmartUSMember,Walmart US,segment,485599000000,713163000000,reconciled
+0000104169,WMT,Walmart Inc.,2026-03-13,2026-01-31,business,wmt:WalmartInternationalMember,Walmart International,segment,131988000000,713163000000,reconciled
+0000104169,WMT,Walmart Inc.,2026-03-13,2026-01-31,business,wmt:SamsClubUSMember,Sams Club US,segment,95540000000,713163000000,reconciled
+0000104169,WMT,Walmart Inc.,2026-03-13,2026-01-31,geography,country:US,United States,segment,581175000000,713163000000,reconciled
+0000104169,WMT,Walmart Inc.,2026-03-13,2026-01-31,geography,us-gaap:NonUsMember,Non-US,segment,131988000000,713163000000,reconciled
+0000109198,TJX,TJX COMPANIES INC /DE/,2026-03-31,2026-01-31,business,tjx:MarmaxxMember,Marmaxx,segment,36585000000,60372000000,reconciled
+0000109198,TJX,TJX COMPANIES INC /DE/,2026-03-31,2026-01-31,business,tjx:HomeGoodsMember,Home Goods,segment,10172000000,60372000000,reconciled
+0000109198,TJX,TJX COMPANIES INC /DE/,2026-03-31,2026-01-31,business,tjx:TJXInternationalMember,TJX International,segment,7986000000,60372000000,reconciled
+0000109198,TJX,TJX COMPANIES INC /DE/,2026-03-31,2026-01-31,business,tjx:TjxCanadaMember,Tjx Canada,segment,5629000000,60372000000,reconciled
+0000109198,TJX,TJX COMPANIES INC /DE/,2026-03-31,2026-01-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,60372000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,business,jnj:InnovativeMedicineMember,Innovative Medicine,segment,60401000000,94193000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,business,jnj:MedTechMember,Med Tech,segment,33792000000,94193000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,business,jnj:SegmentsTotalMember,Segments Total,segment,,94193000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,business,jnj:ConsumerMember,Consumer,segment,,94193000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,geography,country:US,United States,segment,53752000000,94193000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,geography,srt:EuropeMember,Europe,segment,21535000000,94193000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,geography,jnj:AsiaPacificAfricaMember,Asia Pacific Africa,segment,14031000000,94193000000,reconciled
+0000200406,JNJ,JOHNSON & JOHNSON,2026-02-11,2025-12-28,geography,jnj:WesternHemisphereExcludingUSMember,Western Hemisphere Excluding US,segment,4875000000,94193000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,business,mrk:PharmaceuticalsegmentMember,Pharmaceuticalsegment,segment,58142000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,business,mrk:AnimalHealthsegmentMember,Animal Healthsegment,segment,6354000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,515000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,geography,country:US,United States,segment,36510000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,14580000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,geography,srt:LatinAmericaMember,Latin America,segment,3410000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,2983000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,geography,mrk:OtherCountriesMember,Other Countries,segment,2878000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,geography,country:JP,Japan,segment,2711000000,65011000000,reconciled
+0000310158,MRK,"Merck & Co., Inc.",2026-02-24,2025-12-31,geography,country:CN,China,segment,1939000000,65011000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,business,de:ProductionAndPrecisionAgricultureSegmentMember,Production and Precision Agriculture,segment,17753000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,business,de:ConstructionAndForestrySegmentMember,Construction and Forestry,segment,11642000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,business,de:SmallAgricultureAndTurfSegmentMember,Small Agriculture and Turf,segment,10432000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,business,de:FinancialServicesSegmentMember,Financial Services,segment,6289000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-742000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,product,us-gaap:ProductMember,Product,segment,38917000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,product,us-gaap:FinancialServiceMember,Financial Service,segment,5748000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,product,de:OtherMember,Other,segment,1019000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,geography,country:US,United States,segment,23974000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,geography,de:WesternEuropeMember,Western Europe,segment,6550000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,geography,srt:LatinAmericaMember,Latin America,segment,5607000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,geography,de:AsiaAfricaOceaniaAndMiddleEastMember,Asia Africa Oceania and Middle East,segment,4243000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,geography,country:CA,Canada,segment,3735000000,45684000000,reconciled
+0000315189,DE,DEERE & CO,2025-12-18,2025-11-02,geography,de:CentralEuropeAndCommonwealthOfIndependentStatesMember,Central Europe and Commonwealth of Independent States,segment,1575000000,45684000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,business,nke:NIKEBrandMember,NIKE Brand,segment,45222000000,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,business,nke:ConverseSegmentMember,Converse,segment,1174000000,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,2000000,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,product,nke:FootwearMember,Footwear,segment,30538000000,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,product,nke:ApparelMember,Apparel,segment,13497000000,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,product,nke:SportingEquipmentMember,Sporting Equipment,segment,2220000000,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,product,us-gaap:ProductAndServiceOtherMember,Product and Service Other,segment,143000000,46398000000,reconciled
+0000320187,NKE,"NIKE, Inc.",2026-07-15,2026-05-31,geography,country:US,United States,segment,20358000000,46398000000,under
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,business,aapl:AmericasSegmentMember,Americas,segment,178353000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,business,aapl:EuropeSegmentMember,Europe,segment,111032000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,business,aapl:GreaterChinaSegmentMember,Greater China,segment,64377000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,business,aapl:RestOfAsiaPacificSegmentMember,Rest of Asia Pacific,segment,33696000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,business,aapl:JapanSegmentMember,Japan,segment,28703000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,product,aapl:IPhoneMember,iPhone,segment,209586000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,product,us-gaap:ServiceMember,Service,segment,109158000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,product,aapl:WearablesHomeandAccessoriesMember,Wearables Home and Accessories,segment,35686000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,product,aapl:MacMember,Mac,segment,33708000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,product,aapl:IPadMember,iPad,segment,28023000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,geography,aapl:OtherCountriesMember,Other Countries,segment,199994000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,geography,country:US,United States,segment,151790000000,416161000000,reconciled
+0000320193,AAPL,Apple Inc.,2025-10-31,2025-09-27,geography,country:CN,China,segment,64377000000,416161000000,reconciled
+0000354950,HD,"HOME DEPOT, INC.",2026-03-18,2026-02-01,business,hd:PrimarySegmentMember,Primary,segment,151966000000,164683000000,reconciled
+0000354950,HD,"HOME DEPOT, INC.",2026-03-18,2026-02-01,business,us-gaap:AllOtherSegmentsMember,All Other,segment,12717000000,164683000000,reconciled
+0000354950,HD,"HOME DEPOT, INC.",2026-03-18,2026-02-01,product,us-gaap:ProductMember,Product,segment,159029000000,164683000000,reconciled
+0000354950,HD,"HOME DEPOT, INC.",2026-03-18,2026-02-01,product,us-gaap:ServiceMember,Service,segment,5654000000,164683000000,reconciled
+0000354950,HD,"HOME DEPOT, INC.",2026-03-18,2026-02-01,geography,country:US,United States,segment,152170000000,164683000000,reconciled
+0000354950,HD,"HOME DEPOT, INC.",2026-03-18,2026-02-01,geography,us-gaap:NonUsMember,Non-US,segment,12513000000,164683000000,reconciled
+0000721371,CAH,CARDINAL HEALTH INC,2026-08-11,2026-06-30,business,cah:PharmaceuticalAndSpecialtySolutionsMember,Pharmaceutical and Specialty Solutions,segment,234833000000,254248000000,reconciled
+0000721371,CAH,CARDINAL HEALTH INC,2026-08-11,2026-06-30,business,cah:GMPDMember,GMPD,segment,12719000000,254248000000,reconciled
+0000721371,CAH,CARDINAL HEALTH INC,2026-08-11,2026-06-30,business,us-gaap:AllOtherSegmentsMember,All Other,segment,6792000000,254248000000,reconciled
+0000721371,CAH,CARDINAL HEALTH INC,2026-08-11,2026-06-30,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,-96000000,254248000000,reconciled
+0000721371,CAH,CARDINAL HEALTH INC,2026-08-11,2026-06-30,geography,country:US,United States,segment,252639000000,254248000000,reconciled
+0000721371,CAH,CARDINAL HEALTH INC,2026-08-11,2026-06-30,geography,us-gaap:NonUsMember,Non-US,segment,1705000000,254248000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,business,mu:CMBUMember,CMBU,segment,43085000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,business,mu:CDBUMember,CDBU,segment,37592000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,business,mu:MCBUMember,MCBU,segment,36601000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,business,mu:AEBUMember,AEBU,segment,15886000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,business,us-gaap:AllOtherSegmentsMember,All Other,segment,24000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,0,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,product,mu:DRAMProductsMember,DRAM Products,segment,100679000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,product,mu:NANDProductsMember,NAND Products,segment,31785000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,product,mu:OtherProductSalesMember,Other Product Sales,segment,724000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,country:US,United States,segment,91323000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,country:TW,Taiwan,segment,16950000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,country:CN,China,segment,8338000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,country:HK,Hong Kong,segment,6289000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,mu:OtherAsiaPacificMember,Other Asia Pacific,segment,5777000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,country:JP,Japan,segment,2066000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,srt:EuropeMember,Europe,segment,1716000000,133188000000,reconciled
+0000723125,MU,MICRON TECHNOLOGY INC,2026-10-09,2026-09-03,geography,mu:OtherCountriesMember,Other Countries,segment,729000000,133188000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,business,unh:UnitedhealthcareMember,Unitedhealthcare,segment,344903000000,447567000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,business,unh:OptumrxMember,Optumrx,segment,154726000000,447567000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,business,unh:OptumhealthMember,Optumhealth,segment,101957000000,447567000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,business,unh:OptuminsightMember,Optuminsight,segment,19417000000,447567000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,business,unh:TotalOptumMember,Total Optum,segment,,447567000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-5480000000,447567000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,-167956000000,447567000000,reconciled
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,product,us-gaap:ProductMember,Product,segment,53380000000,447567000000,under
+0000731766,UNH,UNITEDHEALTH GROUP INC,2026-03-02,2025-12-31,product,us-gaap:ServiceMember,Service,segment,38038000000,447567000000,under
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,business,vz:VerizonConsumerGroupSegmentMember,Verizon Consumer Group,segment,106807000000,138191000000,reconciled
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,business,vz:VerizonBusinessGroupSegmentMember,Verizon Business Group,segment,29069000000,138191000000,reconciled
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,324000000,138191000000,reconciled
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,business,srt:ConsolidationEliminationsMember,Consolidation Eliminations,reconciling,-327000000,138191000000,reconciled
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,product,vz:ServiceAndOtherMember,Service and Other,segment,112721000000,138191000000,over
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,product,vz:WirelessServiceMember,Wireless Service,segment,83703000000,138191000000,over
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,product,us-gaap:ProductMember,Product,segment,25470000000,138191000000,over
+0000732712,VZ,VERIZON COMMUNICATIONS INC,2026-02-17,2025-12-31,product,vz:FiosRevenuesMember,Fios Revenues,segment,12922000000,138191000000,over
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,business,t:CommunicationsMember,Communications,segment,120896000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,business,t:LatinAmericaBusinessSegmentMember,Latin America Business,segment,4379000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,business,us-gaap:CorporateAndOtherMember,Corporate and Other,segment,373000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,product,t:WirelessServiceMember,Wireless Service,segment,70099000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,product,us-gaap:ProductMember,Product,segment,24490000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,product,t:BusinessServiceMember,Business Service,segment,15978000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,product,t:LegacyVoiceAndDataMember,Legacy Voice and Data,segment,10362000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,product,t:IPBroadbandMember,IP Broadband,segment,3542000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,product,t:OtherServiceMember,Other Service,segment,1177000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,geography,country:US,United States,segment,120219000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,geography,country:MX,Mexico,segment,4428000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,395000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,geography,srt:EuropeMember,Europe,segment,382000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,geography,t:AllOtherGeographicalAreasMember,All Other Geographical Areas,segment,114000000,125648000000,reconciled
+0000732717,T,AT&T INC.,2026-02-09,2025-12-31,geography,t:RegionOfLatinAmericaAndCaribbeanMember,Region of Latin America and Caribbean,segment,110000000,125648000000,reconciled
+0000764478,BBY,BEST BUY CO INC,2026-03-18,2026-01-31,business,bby:DomesticSegmentMember,Domestic,segment,38278000000,41691000000,reconciled
+0000764478,BBY,BEST BUY CO INC,2026-03-18,2026-01-31,business,bby:InternationalSegmentMember,International,segment,3413000000,41691000000,reconciled
+0000764478,BBY,BEST BUY CO INC,2026-03-18,2026-01-31,geography,country:US,United States,segment,38278000000,41691000000,reconciled
+0000764478,BBY,BEST BUY CO INC,2026-03-18,2026-01-31,geography,country:CA,Canada,segment,3413000000,41691000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,business,hon:AerospaceTechnologiesMember,Aerospace Technologies,segment,17510000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,business,hon:IndustrialAutomationMember,Industrial Automation,segment,9401000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,business,hon:BuildingAutomationMember,Building Automation,segment,7367000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,business,hon:EnergyAndSustainabilitySolutionsMember,Energy and Sustainability Solutions,segment,3134000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,product,us-gaap:ProductMember,Product,segment,24515000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,product,us-gaap:ServiceMember,Service,segment,12927000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,geography,country:US,United States,segment,21784000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,geography,srt:EuropeMember,Europe,segment,8112000000,37442000000,reconciled
+0000773840,HON,HONEYWELL INTERNATIONAL INC,2026-02-17,2025-12-31,geography,hon:OtherInternationalMember,Other International,segment,7546000000,37442000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,business,msft:ProductivityAndBusinessProcessesMember,Productivity and Business Processes,segment,139996000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,business,msft:IntelligentCloudMember,Intelligent Cloud,segment,137791000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,business,msft:MorePersonalComputingMember,More Personal Computing,segment,54052000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:ServerProductsAndCloudServicesMember,Server Products and Cloud Services,segment,129425000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:MicrosoftThreeSixFiveCommercialProductsAndCloudServicesMember,Microsoft 365 Commercial Products and Cloud Services,segment,101997000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:XBOXMember,XBOX,segment,21790000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:LinkedInCorporationMember,LinkedIn Corporation,segment,19817000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:WindowsAndDevicesMember,Windows and Devices,segment,17084000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:SearchAdvertisingMember,Search Advertising,segment,15176000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:MicrosoftThreeSixFiveConsumerProductsAndCloudServicesMember,Microsoft 365 Consumer Products and Cloud Services,segment,9175000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:DynamicsProductsAndCloudServicesMember,Dynamics Products and Cloud Services,segment,9006000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:EnterpriseAndPartnerServicesMember,Enterprise and Partner Services,segment,8260000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,product,msft:OtherProductsAndServicesMember,Other Products and Services,segment,109000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,geography,country:US,United States,segment,170794000000,331839000000,reconciled
+0000789019,MSFT,MICROSOFT CORP,2026-07-29,2026-06-30,geography,us-gaap:NonUsMember,Non-US,segment,161045000000,331839000000,reconciled
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,business,wkc:AviationSegmentMember,Aviation,segment,18993600000,36916600000,reconciled
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,business,wkc:LandSegmentMember,Land,segment,10240000000,36916600000,reconciled
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,business,wkc:MarineSegmentMember,Marine,segment,7683100000,36916600000,reconciled
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,36916600000,reconciled
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,geography,country:US,United States,segment,19280000000,36916600000,over
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,7941600000,36916600000,over
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,geography,wkc:AmericasExcludingUnitedStatesMember,Americas Excluding United States,segment,5126600000,36916600000,over
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,4568400000,36916600000,over
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,geography,country:SG,Singapore,segment,4500000000,36916600000,over
+0000789460,WKC,WORLD KINECT CORP,2026-02-23,2025-12-31,geography,country:GB,United Kingdom,segment,3100000000,36916600000,over
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,business,bhp:CopperMember,Copper,segment,29031000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,business,bhp:IronOreMember,Iron Ore,segment,23883000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,business,bhp:CoalMember,Coal,segment,5590000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,business,ifrs-full:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,256000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,country:CN,China,segment,34206000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,country:JP,Japan,segment,5810000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,country:IN,India,segment,3660000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,bhp:RestOfAsiaMember,Rest of Asia,segment,3632000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,country:KR,South Korea,segment,3218000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,country:AU,Australia,segment,2855000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,srt:NorthAmericaMember,North America,segment,2707000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,srt:EuropeMember,Europe,segment,2183000000,58760000000,reconciled
+0000811809,BHP,BHP Group Ltd,2026-08-18,2026-06-30,geography,srt:SouthAmericaMember,South America,segment,489000000,58760000000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,business,sbux:NorthAmericaSegmentMember,North America,segment,27373100000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,business,sbux:InternationalSegmentMember,International,segment,7819900000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,business,sbux:ChannelDevelopmentMember,Channel Development,segment,1871700000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,business,us-gaap:CorporateAndOtherMember,Corporate and Other,segment,119700000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,product,sbux:BeverageMember,Beverage,segment,22539900000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,product,sbux:OtherProductsMember,Other Products,segment,7594600000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,product,sbux:FoodMember,Food,segment,7049900000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,geography,country:US,United States,segment,27124700000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,geography,us-gaap:NonUsMember,Non-US,segment,6898900000,37184400000,reconciled
+0000829224,SBUX,STARBUCKS CORP,2025-11-14,2025-09-28,geography,country:CN,China,segment,3160800000,37184400000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,business,c:MarketsMember,Markets,segment,21970000000,85225000000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,business,c:ServicesMember,Services,segment,21256000000,85225000000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,business,c:USPersonalBankingMember,US Personal Banking,segment,20971000000,85225000000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,business,c:WealthMember,Wealth,segment,8559000000,85225000000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,business,c:BankingSegmentMember,Banking,segment,8215000000,85225000000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,4430000000,85225000000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,-176000000,85225000000,reconciled
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,geography,srt:NorthAmericaMember,North America,segment,44012000000,85225000000,over
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,geography,c:InternationalMember,International,segment,42295000000,85225000000,over
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,geography,country:GB,United Kingdom,segment,7600000000,85225000000,over
+0000831001,C,CITIGROUP INC,2026-02-20,2025-12-31,geography,c:CorporateAndOtherGeographicalMember,Corporate and Other Geographical,segment,-1082000000,85225000000,over
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,business,crh:AmericasMaterialsSolutionsMember,Americas Materials Solutions,segment,17029000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,business,crh:InternationalSolutionsMember,International Solutions,segment,13296000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,business,crh:AmericasBuildingSolutionsMember,Americas Building Solutions,segment,7122000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,product,crh:RoadSolutionsMember,Road Solutions,segment,17089000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,product,crh:EssentialMaterialsMember,Essential Materials,segment,10374000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,product,crh:OutdoorLivingSolutionsMember,Outdoor Living Solutions,segment,5116000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,product,crh:BuildingAndInfrastructureSolutionsMember,Building and Infrastructure Solutions,segment,4868000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,geography,country:US,United States,segment,22834000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,geography,crh:RestOfEuropeMember,Rest of Europe,segment,7373000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,geography,country:GB,United Kingdom,segment,3767000000,37447000000,reconciled
+0000849395,CRH,CRH PUBLIC LTD CO,2026-02-18,2025-12-31,geography,crh:RestOfWorldMember,Rest of World,segment,3473000000,37447000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,business,csco:AmericasSegmentMember,Americas,segment,37799000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,business,csco:EuropeMiddleEastAndAfricaSegmentMember,Europe Middle East and Africa,segment,16613000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,business,csco:AsiaPacificJapanAndChinaSegmentMember,Asia Pacific Japan and China,segment,8914000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,product,csco:NetworkingMember,Networking,segment,34668000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,product,us-gaap:ServiceMember,Service,segment,15030000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,product,csco:SecurityMember,Security,segment,8232000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,product,csco:CollaborationMember,Collaboration,segment,4300000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,product,csco:ObservabilityMember,Observability,segment,1095000000,63325000000,reconciled
+0000858877,CSCO,"CISCO SYSTEMS, INC.",2026-09-02,2026-07-25,geography,country:US,United States,segment,34400000000,63325000000,under
+0000860730,HCA,"HCA Healthcare, Inc.",2026-02-10,2025-12-31,business,hca:AmericanGroupMember,American Group,segment,26445000000,75600000000,reconciled
+0000860730,HCA,"HCA Healthcare, Inc.",2026-02-10,2025-12-31,business,hca:AtlanticGroupMember,Atlantic Group,segment,24709000000,75600000000,reconciled
+0000860730,HCA,"HCA Healthcare, Inc.",2026-02-10,2025-12-31,business,hca:NationalGroupMember,National Group,segment,21278000000,75600000000,reconciled
+0000860730,HCA,"HCA Healthcare, Inc.",2026-02-10,2025-12-31,business,us-gaap:CorporateAndOtherMember,Corporate and Other,segment,3168000000,75600000000,reconciled
+0000860730,HCA,"HCA Healthcare, Inc.",2026-02-10,2025-12-31,product,us-gaap:ProductAndServiceOtherMember,Product and Service Other,segment,2458000000,75600000000,under
+0000886982,GS,GOLDMAN SACHS GROUP INC,2026-02-25,2025-12-31,business,gs:GlobalBankingAndMarketsMember,Global Banking and Markets,segment,41453000000,58283000000,reconciled
+0000886982,GS,GOLDMAN SACHS GROUP INC,2026-02-25,2025-12-31,business,gs:AssetAndWealthManagementMember,Asset and Wealth Management,segment,16679000000,58283000000,reconciled
+0000886982,GS,GOLDMAN SACHS GROUP INC,2026-02-25,2025-12-31,business,gs:PlatformSolutionsMember,Platform Solutions,segment,151000000,58283000000,reconciled
+0000886982,GS,GOLDMAN SACHS GROUP INC,2026-02-25,2025-12-31,geography,srt:AmericasMember,Americas,segment,36548000000,58283000000,reconciled
+0000886982,GS,GOLDMAN SACHS GROUP INC,2026-02-25,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,14155000000,58283000000,reconciled
+0000886982,GS,GOLDMAN SACHS GROUP INC,2026-02-25,2025-12-31,geography,srt:AsiaMember,Asia,segment,7580000000,58283000000,reconciled
+0000895421,MS,MORGAN STANLEY,2026-02-19,2025-12-31,business,ms:InstitutionalSecuritiesSegmentMember,Institutional Securities,segment,33080000000,70645000000,reconciled
+0000895421,MS,MORGAN STANLEY,2026-02-19,2025-12-31,business,ms:WealthManagementSegmentMember,Wealth Management,segment,31754000000,70645000000,reconciled
+0000895421,MS,MORGAN STANLEY,2026-02-19,2025-12-31,business,ms:InvestmentManagementSegmentMember,Investment Management,segment,6525000000,70645000000,reconciled
+0000895421,MS,MORGAN STANLEY,2026-02-19,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-714000000,70645000000,reconciled
+0000895421,MS,MORGAN STANLEY,2026-02-19,2025-12-31,geography,srt:AmericasMember,Americas,segment,52897000000,70645000000,reconciled
+0000895421,MS,MORGAN STANLEY,2026-02-19,2025-12-31,geography,srt:AsiaMember,Asia,segment,9420000000,70645000000,reconciled
+0000895421,MS,MORGAN STANLEY,2026-02-19,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,8328000000,70645000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,business,jbl:IntelligentInfrastructureMember,Intelligent Infrastructure,segment,17872000000,35954000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,business,jbl:RegulatedIndustriesMember,Regulated Industries,segment,12694000000,35954000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,business,jbl:ConnectedLivingAndDigitalCommerceMember,Connected Living and Digital Commerce,segment,5388000000,35954000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,geography,jbl:OtherCountriesMember,Other Countries,segment,10617000000,35954000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,geography,country:US,United States,segment,9674000000,35954000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,geography,country:MX,Mexico,segment,7205000000,35954000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,geography,country:MY,Malaysia,segment,4376000000,35954000000,reconciled
+0000898293,JBL,JABIL INC,2026-10-23,2026-08-31,geography,country:CN,China,segment,4082000000,35954000000,reconciled
+0000899051,ALL,ALLSTATE CORP,2026-02-19,2025-12-31,business,all:PropertyLiabilityMember,Property Liability,segment,59733000000,67685000000,reconciled
+0000899051,ALL,ALLSTATE CORP,2026-02-19,2025-12-31,business,all:ProtectionServicesMember,Protection Services,segment,3550000000,67685000000,reconciled
+0000899051,ALL,ALLSTATE CORP,2026-02-19,2025-12-31,business,all:AllstateHealthAndBenefitsMember,Allstate Health and Benefits,segment,676000000,67685000000,reconciled
+0000899051,ALL,ALLSTATE CORP,2026-02-19,2025-12-31,business,us-gaap:CorporateAndOtherMember,Corporate and Other,segment,308000000,67685000000,reconciled
+0000899051,ALL,ALLSTATE CORP,2026-02-19,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,635000000,67685000000,reconciled
+0000899051,ALL,ALLSTATE CORP,2026-02-19,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-137000000,67685000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,business,cost:UnitedStatesMember,United States,segment,219823000000,303154000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,business,cost:OtherInternationalMember,Other International,segment,42770000000,303154000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,business,cost:CanadaMember,Canada,segment,40561000000,303154000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,product,cost:FoodandSundriesMember,Food and Sundries,segment,116788000000,303154000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,product,cost:NonFoodsMember,Non-Foods,segment,77375000000,303154000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,product,cost:OtherMember,Other,segment,61369000000,303154000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,product,cost:FreshFoodMember,Fresh Food,segment,41715000000,303154000000,reconciled
+0000909832,COST,COSTCO WHOLESALE CORP /NEW,2026-10-07,2026-08-30,product,us-gaap:MembershipMember,Membership,segment,5907000000,303154000000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,business,intl:CommercialSegmentMember,Commercial,segment,129257200000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,business,intl:InstitutionalSegmentMember,Institutional,segment,2498500000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,business,intl:SelfDirectedRetailSegmentMember,Self Directed Retail,segment,405500000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,business,intl:PaymentsSegmentMember,Payments,segment,213800000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,64400000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-61200000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,product,intl:SalesOfPhysicalCommoditiesMember,Sales of Physical Commodities,segment,128462600000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,product,intl:InterestIncomeNetMember,Interest Income Net,segment,1734300000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,product,intl:PrincipalGainsNetMember,Principal Gains Net,segment,1247200000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,product,intl:CommissionAndClearingFeesMember,Commission and Clearing Fees,segment,728200000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,product,intl:ConsultingManagementAndAccountFeesMember,Consulting Management and Account Fees,segment,205900000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,geography,intl:MiddleEastAndAsiaMember,Middle East and Asia,segment,120922700000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,geography,country:US,United States,segment,7760500000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,geography,srt:EuropeMember,Europe,segment,3107400000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,geography,srt:SouthAmericaMember,South America,segment,564000000,132378200000,reconciled
+0000913760,SNEX,StoneX Group Inc.,2025-11-28,2025-09-30,geography,intl:OtherCountryNotMentionedAboveMember,Other Country Not Mentioned Above,segment,23600000,132378200000,reconciled
+0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-02-19,2025-12-31,business,cof:CreditCardSegmentMember,Credit Card,segment,39560000000,53434000000,reconciled
+0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-02-19,2025-12-31,business,cof:ConsumerBankingSegmentMember,Consumer Banking,segment,10433000000,53434000000,reconciled
+0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-02-19,2025-12-31,business,cof:CommercialBankingSegmentMember,Commercial Banking,segment,3655000000,53434000000,reconciled
+0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-02-19,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,-214000000,53434000000,reconciled
+0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-02-19,2025-12-31,product,cof:InterchangeFeesContractsMember,Interchange Fees Contracts,segment,6443000000,8062000000,reconciled
+0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-02-19,2025-12-31,product,cof:ServiceChargesAndOtherCustomerFeesContractsMember,Service Charges and Other Customer Fees Contracts,segment,857000000,8062000000,reconciled
+0000927628,COF,CAPITAL ONE FINANCIAL CORP,2026-02-19,2025-12-31,product,cof:OtherContractRevenueMember,Other Contract Revenue,segment,762000000,8062000000,reconciled
+0000927653,MCK,MCKESSON CORP,2026-05-07,2026-03-31,business,mck:NorthAmericanPharmaceuticalSegmentMember,North American Pharmaceutical,segment,336652000000,403430000000,reconciled
+0000927653,MCK,MCKESSON CORP,2026-05-07,2026-03-31,business,mck:OncologyAndMultispecialtySegmentMember,Oncology and Multispecialty,segment,48423000000,403430000000,reconciled
+0000927653,MCK,MCKESSON CORP,2026-05-07,2026-03-31,business,mck:MedicalSurgicalSolutionsSegmentMember,Medical Surgical Solutions,segment,11507000000,403430000000,reconciled
+0000927653,MCK,MCKESSON CORP,2026-05-07,2026-03-31,business,mck:PrescriptionTechnologySolutionsSegmentMember,Prescription Technology Solutions,segment,5805000000,403430000000,reconciled
+0000927653,MCK,MCKESSON CORP,2026-05-07,2026-03-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,1043000000,403430000000,reconciled
+0000927653,MCK,MCKESSON CORP,2026-05-07,2026-03-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,403430000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,business,amzn:NorthAmericaSegmentMember,North America,segment,426305000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,business,amzn:InternationalSegmentMember,International,segment,161894000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,business,amzn:AmazonWebServicesSegmentMember,Amazon Web Services,segment,128725000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,product,amzn:OnlineStoresMember,Online Stores,segment,269287000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,product,amzn:ThirdPartySellerServicesMember,Third Party Seller Services,segment,172162000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,product,amzn:AmazonWebServicesMember,Amazon Web Services,segment,128725000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,product,us-gaap:AdvertisingMember,Advertising,segment,68635000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,product,amzn:SubscriptionServicesMember,Subscription Services,segment,49619000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,product,amzn:PhysicalStoresMember,Physical Stores,segment,22561000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,product,amzn:OtherServicesMember,Other Services,segment,5935000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,geography,country:US,United States,segment,489657000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,107467000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,geography,country:DE,Germany,segment,45900000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,geography,country:GB,United Kingdom,segment,43212000000,716924000000,reconciled
+0001018724,AMZN,AMAZON COM INC,2026-02-05,2025-12-31,geography,country:JP,Japan,segment,30688000000,716924000000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,business,lad:VehicleOperationsMember,Vehicle Operations,segment,37634900000,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,product,lad:NewVehicleMember,New Vehicle,segment,18703000000,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,product,lad:UsedVehicleMember,Used Vehicle,segment,13371500000,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,product,lad:AftersalesMember,Aftersales,segment,4086800000,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,product,lad:FinanceAndInsuranceMember,Finance and Insurance,segment,1473600000,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,geography,country:US,United States,segment,29554400000,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,geography,country:GB,United Kingdom,segment,6914100000,37634900000,reconciled
+0001023128,LAD,LITHIA MOTORS INC,2026-02-25,2025-12-31,geography,country:CA,Canada,segment,1166400000,37634900000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,business,vlo:RefiningMember,Refining,segment,116166000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,business,vlo:EthanolMember,Ethanol,segment,4977000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,business,vlo:RenewableDieselMember,Renewable Diesel,segment,4597000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-3053000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,geography,country:US,United States,segment,87819000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,geography,vlo:UnitedKingdomAndIrelandMember,United Kingdom and Ireland,segment,15830000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,geography,country:CA,Canada,segment,8137000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,geography,vlo:OtherCountriesMember,Other Countries,segment,5733000000,122687000000,reconciled
+0001035002,VLO,VALERO ENERGY CORP/TX,2026-02-25,2025-12-31,geography,vlo:MexicoAndPeruMember,Mexico and Peru,segment,5168000000,122687000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,business,nvda:ComputeAndNetworkingSegmentMember,Compute and Networking,segment,193479000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,business,nvda:GraphicsSegmentMember,Graphics,segment,22459000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,product,nvda:ComputeMember,Compute,segment,162361000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,product,nvda:NetworkingMember,Networking,segment,31376000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,product,nvda:GamingMember,Gaming,segment,16042000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,product,nvda:ProfessionalVisualizationMember,Professional Visualization,segment,3191000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,product,nvda:AutomotiveMember,Automotive,segment,2349000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,product,nvda:OEMAndOtherMember,OEM and Other,segment,619000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,geography,country:US,United States,segment,149617000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,geography,country:TW,Taiwan,segment,42345000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,geography,nvda:ChinaIncludingHongKongMember,China Including Hong Kong,segment,19677000000,215938000000,reconciled
+0001045810,NVDA,NVIDIA CORP,2026-02-25,2026-01-25,geography,nvda:OtherCountriesMember,Other Countries,segment,4299000000,215938000000,reconciled
+0001048911,FDX,FEDEX CORP,2026-07-20,2026-05-31,business,fdx:FederalExpressSegmentMember,Federal Express,segment,82273000000,94720000000,reconciled
+0001048911,FDX,FEDEX CORP,2026-07-20,2026-05-31,business,fdx:FedexFreightSegmentMember,Fedex Freight,segment,8795000000,94720000000,reconciled
+0001048911,FDX,FEDEX CORP,2026-07-20,2026-05-31,geography,country:US,United States,segment,67944000000,94720000000,reconciled
+0001048911,FDX,FEDEX CORP,2026-07-20,2026-05-31,geography,us-gaap:NonUsMember,Non-US,segment,26776000000,94720000000,reconciled
+0001061219,EPD,ENTERPRISE PRODUCTS PARTNERS L.P.,2026-02-27,2025-12-31,business,epd:NglPipelinesAndServicesMember,Ngl Pipelines and Services,segment,84375000000,52596000000,reconciled
+0001061219,EPD,ENTERPRISE PRODUCTS PARTNERS L.P.,2026-02-27,2025-12-31,business,epd:OnshoreCrudeOilPipelinesAndServicesMember,Onshore Crude Oil Pipelines and Services,segment,63136000000,52596000000,reconciled
+0001061219,EPD,ENTERPRISE PRODUCTS PARTNERS L.P.,2026-02-27,2025-12-31,business,epd:PetrochemicalAndRefinedProductsServicesMember,Petrochemical and Refined Products Services,segment,31498000000,52596000000,reconciled
+0001061219,EPD,ENTERPRISE PRODUCTS PARTNERS L.P.,2026-02-27,2025-12-31,business,epd:OnshoreNaturalGasPipelinesAndServicesMember,Onshore Natural Gas Pipelines and Services,segment,5127000000,52596000000,reconciled
+0001061219,EPD,ENTERPRISE PRODUCTS PARTNERS L.P.,2026-02-27,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-131540000000,52596000000,reconciled
+0001065280,NFLX,NETFLIX INC,2026-01-23,2025-12-31,business,nflx:ReportableSegmentMember,Reportable,segment,45183036000,45183036000,reconciled
+0001065280,NFLX,NETFLIX INC,2026-01-23,2025-12-31,product,nflx:StreamingMember,Streaming,segment,45183036000,45183036000,reconciled
+0001065280,NFLX,NETFLIX INC,2026-01-23,2025-12-31,geography,country:US,United States,segment,18500000000,45183036000,under
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:InsuranceCorporateAndOtherMember,Insurance Corporate and Other,segment,108390000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:ManufacturingBusinessesMember,Manufacturing Businesses,segment,78390000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:McLaneCompanyMember,Mc Lane Company,segment,50215000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:ServiceAndRetailingBusinessesMember,Service and Retailing Businesses,segment,42560000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:PilotTravelCentersLLCMember,Pilot Travel Centers LLC,segment,42166000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:BerkshireHathawayEnergyCompanyMember,Berkshire Hathaway Energy Company,segment,26282000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:BurlingtonNorthernSantaFeCorporationMember,Burlington Northern Santa Fe Corporation,segment,23441000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,business,brka:BerkshireHathawayInsuranceGroupMember,Berkshire Hathaway Insurance Group,segment,,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,product,brka:InsuranceAndOtherMember,Insurance and Other,segment,321721000000,371444000000,reconciled
+0001067983,BRK-B,BERKSHIRE HATHAWAY INC,2026-03-02,2025-12-31,product,brka:RailroadUtilitiesAndEnergyMember,Railroad Utilities and Energy,segment,49723000000,371444000000,reconciled
+0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-02-27,2025-12-31,business,paa:CrudeOilSegmentMember,Crude Oil,segment,44131000000,44262000000,reconciled
+0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-02-27,2025-12-31,business,paa:NaturalGasLiquidsSegmentMember,Natural Gas Liquids,segment,151000000,44262000000,reconciled
+0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-02-27,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-20000000,44262000000,reconciled
+0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-02-27,2025-12-31,product,us-gaap:ProductMember,Product,segment,42501000000,44262000000,reconciled
+0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-02-27,2025-12-31,product,us-gaap:ServiceMember,Service,segment,1761000000,44262000000,reconciled
+0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-02-27,2025-12-31,geography,country:US,United States,segment,39761000000,44262000000,reconciled
+0001070423,PAA,PLAINS ALL AMERICAN PIPELINE LP,2026-02-27,2025-12-31,geography,country:CA,Canada,segment,4501000000,44262000000,reconciled
+0001090727,UPS,UNITED PARCEL SERVICE INC,2026-02-17,2025-12-31,business,ups:U.S.DomesticPackageSegmentMember,U S Domestic Package,segment,59519000000,88661000000,reconciled
+0001090727,UPS,UNITED PARCEL SERVICE INC,2026-02-17,2025-12-31,business,ups:InternationalSegmentMember,International,segment,18576000000,88661000000,reconciled
+0001090727,UPS,UNITED PARCEL SERVICE INC,2026-02-17,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,10566000000,88661000000,reconciled
+0001090727,UPS,UNITED PARCEL SERVICE INC,2026-02-17,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,,88661000000,reconciled
+0001090727,UPS,UNITED PARCEL SERVICE INC,2026-02-17,2025-12-31,geography,country:US,United States,segment,67432000000,88661000000,reconciled
+0001090727,UPS,UNITED PARCEL SERVICE INC,2026-02-17,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,21229000000,88661000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,business,mdlz:EuropeSegmentMember,Europe,segment,15027000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,business,mdlz:NorthAmericaSegmentMember,North America,segment,10679000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,business,mdlz:AsiaMiddleEastAndAfricaSegmentMember,Asia Middle East and Africa,segment,7932000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,business,mdlz:LatinAmericaSegmentMember,Latin America,segment,4899000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,product,mdlz:BiscuitsMember,Biscuits,segment,18391000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,product,mdlz:ChocolateMember,Chocolate,segment,12696000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,product,mdlz:GumAndCandyMember,Gum and Candy,segment,4060000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,product,mdlz:CheeseAndGroceryMember,Cheese and Grocery,segment,2384000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,product,mdlz:BeveragesMember,Beverages,segment,1006000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,29194000000,38537000000,reconciled
+0001103982,MDLZ,"Mondelez International, Inc.",2026-02-04,2025-12-31,geography,country:US,United States,segment,9343000000,38537000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,business,cbre:BuildingOperationsExperienceMember,Building Operations Experience,segment,23224000000,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,business,cbre:AdvisoryServicesSegmentMember,Advisory Services,segment,8840000000,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,business,cbre:ProjectManagementSegmentMember,Project Management,segment,7657000000,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,business,cbre:RealEstateInvestmentsSegmentMember,Real Estate Investments,segment,879000000,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-50000000,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:FacilitiesManagementMember,Facilities Management,segment,20645000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:ProjectManagementMember,Project Management,segment,7657000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:AdvisoryLeasingMember,Advisory Leasing,segment,4497000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:PropertyManagementMember,Property Management,segment,2529000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:AdvisorySalesMember,Advisory Sales,segment,2120000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:ValuationMember,Valuation,segment,815000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:InvestmentManagementPropertyManagementBrokerageAndOtherProfessionalServicesMember,Investment Management Property Management Brokerage and Other Professional Services,segment,602000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,us-gaap:BankServicingMember,Bank Servicing,segment,357000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:OtherPortfolioServicesMember,Other Portfolio Services,segment,354000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:RealEstateDevelopmentServicesMember,Real Estate Development Services,segment,266000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:CommercialMortgageOriginationMember,Commercial Mortgage Origination,segment,251000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,product,cbre:LoanServicingMember,Loan Servicing,segment,164000000,39900000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,geography,country:US,United States,segment,22848000000,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,geography,cbre:AllOtherCountriesMember,All Other Countries,segment,11993000000,40550000000,reconciled
+0001138118,CBRE,"CBRE GROUP, INC.",2026-02-12,2025-12-31,geography,country:GB,United Kingdom,segment,5709000000,40550000000,reconciled
+0001140859,COR,"Cencora, Inc.",2025-11-25,2025-09-30,business,cor:USHealthcareSolutionsMember,US Healthcare Solutions,segment,290982023000,321332819000,reconciled
+0001140859,COR,"Cencora, Inc.",2025-11-25,2025-09-30,business,cor:InternationalHealthcareSolutionsMember,International Healthcare Solutions,segment,30366323000,321332819000,reconciled
+0001140859,COR,"Cencora, Inc.",2025-11-25,2025-09-30,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-15527000,321332819000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,business,elv:ReportableSegmentsMember,Reportable,segment,199125000000,199125000000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,business,elv:HealthBenefitsSegmentMember,Health Benefits,segment,,199125000000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,business,elv:CarelonRxSegmentMember,Carelon Rx,segment,,199125000000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,business,elv:CarelonServicesSegmentMember,Carelon Services,segment,,199125000000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,business,elv:TotalCarelonMember,Total Carelon,segment,,199125000000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,business,us-gaap:CorporateAndOtherMember,Corporate and Other,segment,,199125000000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,,199125000000,reconciled
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,product,us-gaap:ProductMember,Product,segment,24470000000,199125000000,under
+0001156039,ELV,"Elevance Health, Inc.",2026-02-06,2025-12-31,product,elv:ServiceFeesMember,Service Fees,segment,8475000000,199125000000,under
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,cop:LowerFortyEightSegmentMember,Lower Forty Eight,segment,41404000000,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,cop:EuropeMiddleEastAndNorthAfricaSegmentMember,Europe Middle East and North Africa,segment,6485000000,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,cop:AlaskaSegmentMember,Alaska,segment,5638000000,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,cop:CanadaOperatingSegmentMember,Canada Operating,segment,5600000000,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,cop:AsiaPacificOperatingSegmentMember,Asia Pacific Operating,segment,1770000000,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,cop:CorporateSegmentMember,Corporate,segment,,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-2016000000,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,geography,country:US,United States,segment,46611000000,58944000000,reconciled
+0001163165,COP,CONOCOPHILLIPS,2026-02-17,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,12333000000,58944000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,business,cmcsa:ResidentialConnectivityAndPlatformsSegmentMember,Residential Connectivity and Platforms,segment,70704000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,business,cmcsa:MediaSegmentMember,Media,segment,27090000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,business,cmcsa:StudiosSegmentMember,Studios,segment,11286000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,business,cmcsa:BusinessServicesConnectivitySegmentMember,Business Services Connectivity,segment,10237000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,business,cmcsa:ThemeParksSegmentMember,Theme Parks,segment,9836000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,3090000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,business,srt:ConsolidationEliminationsMember,Consolidation Eliminations,reconciling,-8535000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,geography,country:US,United States,segment,95143000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,geography,country:GB,United Kingdom,segment,15182000000,123707000000,reconciled
+0001166691,CMCSA,COMCAST CORP,2026-02-03,2025-12-31,geography,cmcsa:OtherGeographicLocationsMember,Other Geographic Locations,segment,13382000000,123707000000,reconciled
+0001283699,TMUS,"T-Mobile US, Inc.",2026-02-11,2025-12-31,business,tmus:WirelessMember,Wireless,segment,88309000000,88309000000,reconciled
+0001283699,TMUS,"T-Mobile US, Inc.",2026-02-11,2025-12-31,product,tmus:BrandedPostpaidRevenuePhoneMember,Branded Postpaid Revenue Phone,segment,49443000000,88309000000,reconciled
+0001283699,TMUS,"T-Mobile US, Inc.",2026-02-11,2025-12-31,product,tmus:ProductEquipmentMember,Product Equipment,segment,15972000000,88309000000,reconciled
+0001283699,TMUS,"T-Mobile US, Inc.",2026-02-11,2025-12-31,product,tmus:BrandedPrepaidRevenueMember,Branded Prepaid Revenue,segment,10497000000,88309000000,reconciled
+0001283699,TMUS,"T-Mobile US, Inc.",2026-02-11,2025-12-31,product,tmus:BrandedPostpaidRevenueOtherMember,Branded Postpaid Revenue Other,segment,8489000000,88309000000,reconciled
+0001283699,TMUS,"T-Mobile US, Inc.",2026-02-11,2025-12-31,product,tmus:WholesaleAndOtherServiceRevenueMember,Wholesale and Other Service Revenue,segment,2877000000,88309000000,reconciled
+0001283699,TMUS,"T-Mobile US, Inc.",2026-02-11,2025-12-31,product,us-gaap:ProductAndServiceOtherMember,Product and Service Other,segment,1031000000,88309000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,business,tsla:AutomotiveSegmentMember,Automotive,segment,82056000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,business,tsla:EnergyGenerationAndStorageSegmentMember,Energy Generation and Storage,segment,12771000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,product,tsla:AutomotiveSalesMember,Automotive Sales,segment,65821000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,product,tsla:ServicesAndOtherMember,Services and Other,segment,12530000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,product,tsla:EnergyGenerationAndStorageSalesMember,Energy Generation and Storage Sales,segment,12270000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,product,tsla:AutomotiveRegulatoryCreditsMember,Automotive Regulatory Credits,segment,1993000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,product,tsla:AutomotiveLeasingMember,Automotive Leasing,segment,1712000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,product,tsla:EnergyGenerationAndStorageLeasingMember,Energy Generation and Storage Leasing,segment,501000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,geography,country:US,United States,segment,47627000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,geography,tsla:OtherCountriesMember,Other Countries,segment,26238000000,94827000000,reconciled
+0001318605,TSLA,"Tesla, Inc.",2026-01-28,2025-12-31,geography,country:CN,China,segment,20962000000,94827000000,reconciled
+0001326801,META,"Meta Platforms, Inc.",2026-01-28,2025-12-31,business,meta:FamilyOfAppsMember,Family of Apps,segment,198759000000,200966000000,reconciled
+0001326801,META,"Meta Platforms, Inc.",2026-01-28,2025-12-31,business,meta:RealityLabsMember,Reality Labs,segment,2207000000,200966000000,reconciled
+0001326801,META,"Meta Platforms, Inc.",2026-01-28,2025-12-31,geography,meta:USCanadaMember,US Canada,segment,78866000000,200966000000,over
+0001326801,META,"Meta Platforms, Inc.",2026-01-28,2025-12-31,geography,country:US,United States,segment,74780000000,200966000000,over
+0001326801,META,"Meta Platforms, Inc.",2026-01-28,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,53817000000,200966000000,over
+0001326801,META,"Meta Platforms, Inc.",2026-01-28,2025-12-31,geography,srt:EuropeMember,Europe,segment,46569000000,200966000000,over
+0001326801,META,"Meta Platforms, Inc.",2026-01-28,2025-12-31,geography,meta:RestOfWorldMember,Rest of World,segment,21714000000,200966000000,over
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,business,orcl:CloudAndSoftwareBusinessMember,Cloud and Software Business,segment,58530000000,67357000000,reconciled
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,business,orcl:ServicesBusinessMember,Services Business,segment,5743000000,67357000000,reconciled
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,business,orcl:HardwareBusinessMember,Hardware Business,segment,3084000000,67357000000,reconciled
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,product,orcl:SoftwareSupportMember,Software Support,segment,19804000000,67357000000,under
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,product,orcl:CloudInfrastructureMember,Cloud Infrastructure,segment,18101000000,67357000000,under
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,product,orcl:CloudApplicationsMember,Cloud Applications,segment,15888000000,67357000000,under
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,product,orcl:SoftwareLicenseMember,Software License,segment,4737000000,67357000000,under
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,geography,country:US,United States,segment,39835000000,67357000000,reconciled
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,geography,orcl:OtherCountriesMember,Other Countries,segment,20843000000,67357000000,reconciled
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,geography,country:GB,United Kingdom,segment,2816000000,67357000000,reconciled
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,geography,country:DE,Germany,segment,1993000000,67357000000,reconciled
+0001341439,ORCL,ORACLE CORP,2026-06-22,2026-05-31,geography,country:JP,Japan,segment,1870000000,67357000000,reconciled
+0001413329,PM,Philip Morris International Inc.,2026-02-06,2025-12-31,business,pm:EuropeSegmentMember,Europe,segment,17111000000,40648000000,reconciled
+0001413329,PM,Philip Morris International Inc.,2026-02-06,2025-12-31,business,pm:SSEACISMEASegmentMember,SSEACISMEA,segment,12051000000,40648000000,reconciled
+0001413329,PM,Philip Morris International Inc.,2026-02-06,2025-12-31,business,pm:EAAUPMIGTRSegmentMember,EAAUPMIGTR,segment,6632000000,40648000000,reconciled
+0001413329,PM,Philip Morris International Inc.,2026-02-06,2025-12-31,business,pm:AmericasSegmentMember,Americas,segment,4854000000,40648000000,reconciled
+0001413329,PM,Philip Morris International Inc.,2026-02-06,2025-12-31,product,pm:CombustibleTobaccoProductsMember,Combustible Tobacco Products,segment,23794000000,40648000000,reconciled
+0001413329,PM,Philip Morris International Inc.,2026-02-06,2025-12-31,product,pm:SmokeFreeProductsMember,Smoke Free Products,segment,16854000000,40648000000,reconciled
+0001413329,PM,Philip Morris International Inc.,2026-02-06,2025-12-31,geography,country:RU,Russia,segment,,40648000000,unknown
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,business,wbd:GlobalLinearNetworksMember,Global Linear Networks,segment,17656000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,business,wbd:StudiosSegmentMember,Studios,segment,12619000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,business,wbd:StreamingMember,Streaming,segment,10876000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,2000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-3857000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,product,wbd:DistributionRevenueMember,Distribution Revenue,segment,19262000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,product,wbd:ProductAndServiceContentMember,Product and Service Content,segment,9647000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,product,us-gaap:AdvertisingMember,Advertising,segment,7306000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,product,us-gaap:ServiceOtherMember,Service Other,segment,1081000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,product,us-gaap:ProductAndServiceOtherMember,Product and Service Other,segment,1081000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,geography,country:US,United States,segment,24946000000,37296000000,reconciled
+0001437107,WBD,"Warner Bros. Discovery, Inc.",2026-02-27,2025-12-31,geography,us-gaap:NonUsMember,Non-US,segment,12350000000,37296000000,reconciled
+0001467373,ACN,Accenture plc,2026-10-16,2026-08-31,business,acn:AmericasSegmentMember,Americas,segment,36546614000,74183445000,reconciled
+0001467373,ACN,Accenture plc,2026-10-16,2026-08-31,business,acn:EMEASegmentMember,EMEA,segment,26958994000,74183445000,reconciled
+0001467373,ACN,Accenture plc,2026-10-16,2026-08-31,business,acn:AsiaPacificSegmentMember,Asia Pacific,segment,10677837000,74183445000,reconciled
+0001467373,ACN,Accenture plc,2026-10-16,2026-08-31,product,acn:ManagedServicesRevenueMember,Managed Services Revenue,segment,37300129000,74183445000,reconciled
+0001467373,ACN,Accenture plc,2026-10-16,2026-08-31,product,acn:ConsultingRevenueMember,Consulting Revenue,segment,36883316000,74183445000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,business,gm:GMNorthAmericaMember,GM North America,segment,154317000000,185019000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,business,gm:GMFinancialSegmentMember,GM Financial,segment,17060000000,185019000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,business,gm:GMIMember,GMI,segment,13427000000,185019000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,business,gm:CruiseMember,Cruise,segment,1000000,185019000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,227000000,185019000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-12000000,185019000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,product,gm:VehiclesandPartsMember,Vehiclesand Parts,segment,160511000000,167971000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,product,gm:ServicesandOtherMember,Servicesand Other,segment,5724000000,167971000000,reconciled
+0001467858,GM,General Motors Co,2026-01-27,2025-12-31,product,gm:UsedVehiclesMember,Used Vehicles,segment,1737000000,167971000000,reconciled
+0001510295,MPC,Marathon Petroleum Corp,2026-02-26,2025-12-31,business,mpc:RefiningAndMarketingMember,Refining and Marketing,segment,124252000000,132699000000,reconciled
+0001510295,MPC,Marathon Petroleum Corp,2026-02-26,2025-12-31,business,mpc:MidstreamMember,Midstream,segment,5628000000,132699000000,reconciled
+0001510295,MPC,Marathon Petroleum Corp,2026-02-26,2025-12-31,business,mpc:RenewableDieselMember,Renewable Diesel,segment,2814000000,132699000000,reconciled
+0001510295,MPC,Marathon Petroleum Corp,2026-02-26,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,5982000000,132699000000,reconciled
+0001510295,MPC,Marathon Petroleum Corp,2026-02-26,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,5000000,132699000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,psx:MarketingSpecialitySegmentMember,Marketing Speciality,segment,85897000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,psx:RefiningSegmentMember,Refining,segment,74899000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,psx:MidstreamSegmentMember,Midstream,segment,21175000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,psx:RenewableFuelsMember,Renewable Fuels,segment,6178000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,psx:ChemicalsSegmentMember,Chemicals,segment,0,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,37000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,10000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,0,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,business,srt:ConsolidationEliminationsMember,Consolidation Eliminations,reconciling,-55820000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,product,psx:RefinedPetroleumProductsAndRenewableFuelsMember,Refined Petroleum Products and Renewable Fuels,segment,97359000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,product,srt:NaturalGasLiquidsReservesMember,Natural Gas Liquids Reserves,segment,17066000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,product,srt:CrudeOilMember,Crude Oil,segment,15183000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,product,psx:OtherProductLineMember,Other Product Line,segment,2768000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,geography,country:US,United States,segment,104259000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,geography,country:GB,United Kingdom,segment,13207000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,geography,psx:OtherGeographicalAreasMember,Other Geographical Areas,segment,9917000000,132376000000,reconciled
+0001534701,PSX,Phillips 66,2026-02-20,2025-12-31,geography,country:DE,Germany,segment,4993000000,132376000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,business,uber:MobilityMember,Mobility,segment,29670000000,52017000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,business,uber:DeliveryMember,Delivery,segment,17248000000,52017000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,business,uber:FreightMember,Freight,segment,5099000000,52017000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,business,us-gaap:MaterialReconcilingItemsMember,Material Reconciling Items,reconciling,,52017000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,geography,uber:UnitedStatesAndCanadaMember,United States and Canada,segment,26469000000,52017000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,16364000000,52017000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,5857000000,52017000000,reconciled
+0001543151,UBER,"Uber Technologies, Inc",2026-02-13,2025-12-31,geography,srt:LatinAmericaMember,Latin America,segment,3327000000,52017000000,reconciled
+0001571996,DELL,Dell Technologies Inc.,2026-03-16,2026-01-30,business,dell:InfrastructureSolutionsGroupMember,Infrastructure Solutions Group,segment,60826000000,113538000000,reconciled
+0001571996,DELL,Dell Technologies Inc.,2026-03-16,2026-01-30,business,dell:ClientSolutionsMember,Client Solutions,segment,50984000000,113538000000,reconciled
+0001571996,DELL,Dell Technologies Inc.,2026-03-16,2026-01-30,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,1728000000,113538000000,reconciled
+0001571996,DELL,Dell Technologies Inc.,2026-03-16,2026-01-30,product,us-gaap:ProductMember,Product,segment,90405000000,113538000000,reconciled
+0001571996,DELL,Dell Technologies Inc.,2026-03-16,2026-01-30,product,us-gaap:ServiceMember,Service,segment,23133000000,113538000000,reconciled
+0001571996,DELL,Dell Technologies Inc.,2026-03-16,2026-01-30,geography,country:US,United States,segment,63140000000,113538000000,reconciled
+0001571996,DELL,Dell Technologies Inc.,2026-03-16,2026-01-30,geography,us-gaap:NonUsMember,Non-US,segment,50398000000,113538000000,reconciled
+0001581990,PAGP,PLAINS GP HOLDINGS LP,2026-02-27,2025-12-31,business,pagp:CrudeOilSegmentMember,Crude Oil,segment,44131000000,44262000000,reconciled
+0001581990,PAGP,PLAINS GP HOLDINGS LP,2026-02-27,2025-12-31,business,pagp:NaturalGasLiquidsSegmentMember,Natural Gas Liquids,segment,151000000,44262000000,reconciled
+0001581990,PAGP,PLAINS GP HOLDINGS LP,2026-02-27,2025-12-31,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-20000000,44262000000,reconciled
+0001581990,PAGP,PLAINS GP HOLDINGS LP,2026-02-27,2025-12-31,product,us-gaap:ProductMember,Product,segment,42501000000,44262000000,reconciled
+0001581990,PAGP,PLAINS GP HOLDINGS LP,2026-02-27,2025-12-31,product,us-gaap:ServiceMember,Service,segment,1761000000,44262000000,reconciled
+0001581990,PAGP,PLAINS GP HOLDINGS LP,2026-02-27,2025-12-31,geography,country:US,United States,segment,39761000000,44262000000,reconciled
+0001581990,PAGP,PLAINS GP HOLDINGS LP,2026-02-27,2025-12-31,geography,country:CA,Canada,segment,4501000000,44262000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,business,mdt:CardiovascularMember,Cardiovascular,segment,13976000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,business,mdt:NeuroscienceGroupMember,Neuroscience Group,segment,10287000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,business,mdt:MedicalSurgicalMember,Medical Surgical,segment,8815000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,business,mdt:DiabetesGroupMember,Diabetes Group,segment,3112000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,business,mdt:OtherOperatingSegmentMiscMember,Other Operating Segment Misc,segment,135000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,business,srt:ConsolidationEliminationsMember,Consolidation Eliminations,reconciling,39000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,geography,mdt:TotalOtherCountriesExcludingUnitedStatesandIrelandMember,Total Other Countries Excluding United Statesand Ireland,segment,18118000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,geography,country:US,United States,segment,18103000000,36364000000,reconciled
+0001613103,MDT,Medtronic plc,2026-06-18,2026-04-24,geography,country:IE,Ireland,segment,143000000,36364000000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,business,pfgc:FoodserviceMember,Foodservice,segment,36560300000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,business,pfgc:ConvenienceMember,Convenience,segment,25965200000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,business,pfgc:SpecialtyMember,Specialty,segment,5056600000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,business,us-gaap:CorporateAndOtherMember,Corporate and Other,segment,1003900000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,business,us-gaap:IntersegmentEliminationMember,Intersegment Elimination,reconciling,-746500000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:CigarettesMember,Cigarettes,segment,14993900000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:CenterOfThePlateMember,Center of the Plate,segment,14891700000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:CannedAndDryGroceriesMember,Canned and Dry Groceries,segment,6772900000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:FrozenFoodsMember,Frozen Foods,segment,6458000000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:CandySnackTheaterAndConcessionMember,Candy Snack Theater and Concession,segment,5765700000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:RefrigeratedAndDairyProductsMember,Refrigerated and Dairy Products,segment,5145500000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:PaperProductsAndCleaningSuppliesMember,Paper Products and Cleaning Supplies,segment,3814600000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:BeverageMember,Beverage,segment,3774200000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:AlternativeNicotineProductsMember,Alternative Nicotine Products,segment,3750600000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:ProduceMember,Produce,segment,1583700000,67839500000,reconciled
+0001618673,PFGC,Performance Food Group Co,2026-08-12,2026-06-27,product,pfgc:OtherMiscellaneousGoodsAndServicesMember,Other Miscellaneous Goods and Services,segment,888700000,67839500000,reconciled
+0001618921,WBA,"WALGREENS BOOTS ALLIANCE, INC.",2024-10-15,2024-08-31,business,wba:UnitedStatesRetailPharmacySegmentMember,United States Retail Pharmacy,segment,115778000000,147658000000,reconciled
+0001618921,WBA,"WALGREENS BOOTS ALLIANCE, INC.",2024-10-15,2024-08-31,business,wba:InternationalReportableSegmentMember,International Reportable,segment,23552000000,147658000000,reconciled
+0001618921,WBA,"WALGREENS BOOTS ALLIANCE, INC.",2024-10-15,2024-08-31,business,wba:USHealthcareMember,US Healthcare,segment,8345000000,147658000000,reconciled
+0001618921,WBA,"WALGREENS BOOTS ALLIANCE, INC.",2024-10-15,2024-08-31,geography,country:US,United States,segment,124176000000,147658000000,reconciled
+0001618921,WBA,"WALGREENS BOOTS ALLIANCE, INC.",2024-10-15,2024-08-31,geography,country:DE,Germany,segment,12067000000,147658000000,reconciled
+0001618921,WBA,"WALGREENS BOOTS ALLIANCE, INC.",2024-10-15,2024-08-31,geography,country:GB,United Kingdom,segment,9550000000,147658000000,reconciled
+0001618921,WBA,"WALGREENS BOOTS ALLIANCE, INC.",2024-10-15,2024-08-31,geography,wba:OtherMember,Other,segment,1864000000,147658000000,reconciled
+0001646972,ACI,"Albertsons Companies, Inc.",2026-04-27,2026-02-28,business,aci:ReportableSegmentMember,Reportable,segment,83172500000,83172500000,reconciled
+0001646972,ACI,"Albertsons Companies, Inc.",2026-04-27,2026-02-28,product,aci:NonPerishablesMember,Non-Perishables,segment,40624800000,83172500000,reconciled
+0001646972,ACI,"Albertsons Companies, Inc.",2026-04-27,2026-02-28,product,aci:FreshMember,Fresh,segment,26024200000,83172500000,reconciled
+0001646972,ACI,"Albertsons Companies, Inc.",2026-04-27,2026-02-28,product,aci:PharmacyMember,Pharmacy,segment,11414900000,83172500000,reconciled
+0001646972,ACI,"Albertsons Companies, Inc.",2026-04-27,2026-02-28,product,srt:FuelMember,Fuel,segment,3803000000,83172500000,reconciled
+0001646972,ACI,"Albertsons Companies, Inc.",2026-04-27,2026-02-28,product,aci:OtherProductsandServicesMember,Other Productsand Services,segment,1305600000,83172500000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,business,goog:GoogleServicesMember,Google Services,segment,342721000000,402836000000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,business,goog:GoogleCloudMember,Google Cloud,segment,58705000000,402836000000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,business,us-gaap:AllOtherSegmentsMember,All Other,segment,1537000000,402836000000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,402836000000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,geography,country:US,United States,segment,194229000000,402836000000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,geography,us-gaap:EMEAMember,EMEA,segment,117152000000,402836000000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,67680000000,402836000000,reconciled
+0001652044,GOOGL,Alphabet Inc.,2026-02-04,2025-12-31,geography,goog:AmericasExcludingUnitedStatesMember,Americas Excluding United States,segment,23902000000,402836000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,business,usfd:ReportableSegmentMember,Reportable,segment,39424000000,39424000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,product,usfd:ProductOneMember,Product One,segment,13974000000,39424000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,product,usfd:ProductTwoMember,Product Two,segment,6685000000,39424000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,product,usfd:ProductThreeMember,Product Three,segment,6635000000,39424000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,product,usfd:ProductFourMember,Product Four,segment,4214000000,39424000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,product,usfd:ProductFiveMember,Product Five,segment,3631000000,39424000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,product,usfd:ProductSixMember,Product Six,segment,2338000000,39424000000,reconciled
+0001665918,USFD,US Foods Holding Corp.,2026-02-12,2025-12-27,product,usfd:ProductSevenMember,Product Seven,segment,1947000000,39424000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,business,avgo:SemiconductorSolutionsMember,Semiconductor Solutions,segment,36858000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,business,avgo:InfrastructureSoftwareMember,Infrastructure Software,segment,27029000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,product,us-gaap:ProductMember,Product,segment,44847000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,product,avgo:SubscriptionsandServicesMember,Subscriptionsand Services,segment,19040000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,geography,avgo:AllOtherGeographiesMemberMember,All Other Geographies Member,segment,18979000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,geography,country:US,United States,segment,16506000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,geography,avgo:ChinaincludingHongKongMember,Chinaincluding Hong Kong,segment,11155000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,geography,country:SG,Singapore,segment,10796000000,63887000000,reconciled
+0001730168,AVGO,Broadcom Inc.,2025-12-18,2025-11-02,geography,country:TW,Taiwan,segment,6451000000,63887000000,reconciled
+0001739940,CI,Cigna Group,2026-02-26,2025-12-31,business,ci:EvernorthMember,Evernorth,segment,234953000000,274900000000,reconciled
+0001739940,CI,Cigna Group,2026-02-26,2025-12-31,business,ci:CignaHealthcareMember,Cigna Healthcare,segment,47412000000,274900000000,reconciled
+0001739940,CI,Cigna Group,2026-02-26,2025-12-31,business,us-gaap:AllOtherSegmentsMember,All Other,segment,674000000,274900000000,reconciled
+0001739940,CI,Cigna Group,2026-02-26,2025-12-31,product,us-gaap:ProductMember,Product,segment,216672000000,274900000000,under
+0001739940,CI,Cigna Group,2026-02-26,2025-12-31,product,us-gaap:ServiceMember,Service,segment,16921000000,274900000000,under
+0001739940,CI,Cigna Group,2026-02-26,2025-12-31,product,ci:ServiceFeesAndOtherRevenuesMember,Service Fees and Other Revenues,segment,16921000000,274900000000,under
+0001739940,CI,Cigna Group,2026-02-26,2025-12-31,product,us-gaap:ServiceOtherMember,Service Other,segment,696000000,274900000000,under
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,business,dis:EntertainmentSegmentMember,Entertainment,segment,42466000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,business,dis:ExperiencesSegmentMember,Experiences,segment,36156000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,business,dis:SportsSegmentMember,Sports,segment,17672000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,business,dis:SegmentEliminationsMember,Segment Eliminations,segment,-1869000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,business,dis:EliminationsAndOtherMember,Eliminations and Other,segment,-1869000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,business,us-gaap:CorporateMember,Corporate,segment,,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,business,dis:TotalSegmentsMember,Total,segment,,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,dis:SubscriptionAndAffiliateFeesMember,Subscription and Affiliate Fees,segment,37779000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,us-gaap:AdmissionMember,Admission,segment,11707000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,us-gaap:AdvertisingMember,Advertising,segment,11123000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,dis:RetailandwholesalesalesofmerchandisefoodandbeverageMember,Retailandwholesalesalesofmerchandisefoodandbeverage,segment,9642000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,dis:ResortandvacationsMember,Resortandvacations,segment,9210000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,dis:OtherRevenueMember,Other Revenue,segment,4719000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,us-gaap:LicenseMember,License,segment,3879000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,dis:TVVODAndHomeEntertainmentDistributionMember,TVVOD and Home Entertainment Distribution,segment,3774000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,product,dis:TheatricaldistributionlicensingMember,Theatricaldistributionlicensing,segment,2592000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,geography,srt:AmericasMember,Americas,segment,76430000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,geography,srt:EuropeMember,Europe,segment,11090000000,94425000000,reconciled
+0001744489,DIS,Walt Disney Co,2025-11-13,2025-09-27,geography,srt:AsiaPacificMember,Asia Pacific,segment,6905000000,94425000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,business,dow:PackagingSpecialtyPlasticsMember,Packaging Specialty Plastics,segment,19970000000,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,business,dow:IndustrialIntermediatesInfrastructureMember,Industrial Intermediates Infrastructure,segment,11163000000,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,business,dow:PerformanceMaterialsCoatingsMember,Performance Materials Coatings,segment,8134000000,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,business,us-gaap:CorporateMember,Corporate,segment,701000000,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,business,us-gaap:CorporateNonSegmentMember,Corporate Non-Segment,reconciling,,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,geography,dow:U.S.CanadaMember,U S Canada,segment,15806000000,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,geography,dow:EuropeMiddleEastAfricaAndIndiaMember,Europe Middle East Africa and India,segment,12589000000,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,geography,srt:AsiaPacificMember,Asia Pacific,segment,7219000000,39968000000,reconciled
+0001751788,DOW,DOW INC.,2026-02-03,2025-12-31,geography,srt:LatinAmericaMember,Latin America,segment,4354000000,39968000000,reconciled
+0001859392,GLXY,Galaxy Digital Inc.,2026-02-26,2025-12-31,business,glxy:DigitalAssetsMember,Digital Assets,segment,60385358000,60406728000,reconciled
+0001859392,GLXY,Galaxy Digital Inc.,2026-02-26,2025-12-31,business,glxy:TreasuryAndCorporateMember,Treasury and Corporate,segment,12937000,60406728000,reconciled
+0001859392,GLXY,Galaxy Digital Inc.,2026-02-26,2025-12-31,business,glxy:DataCentersMember,Data Centers,segment,8433000,60406728000,reconciled
+0001859392,GLXY,Galaxy Digital Inc.,2026-02-26,2025-12-31,product,glxy:DigitalAssetsSalesMember,Digital Assets Sales,segment,59850850000,60243860000,reconciled
+0001859392,GLXY,Galaxy Digital Inc.,2026-02-26,2025-12-31,product,glxy:BlockchainRewardsMember,Blockchain Rewards,segment,219950000,60243860000,reconciled
+0001859392,GLXY,Galaxy Digital Inc.,2026-02-26,2025-12-31,product,glxy:FeeMember,Fee,segment,158571000,60243860000,reconciled
+0001859392,GLXY,Galaxy Digital Inc.,2026-02-26,2025-12-31,product,glxy:ProprietaryMiningMember,Proprietary Mining,segment,14489000,60243860000,reconciled

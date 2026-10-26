@@ -1,0 +1,49 @@
+{
+  "name": "@numi-sh/reconcile",
+  "version": "0.1.0",
+  "description": "Checks whether segment revenue adds up to reported revenue, axis by axis, and flags lists that mix axes.",
+  "license": "MIT",
+  "homepage": "https://docs.numi.sh/segments",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numi-sh/reconcile.git"
+  },
+  "keywords": [
+    "segments",
+    "xbrl",
+    "sec",
+    "reconciliation",
+    "revenue",
+    "financial-data"
+  ],
+  "type": "module",
+  "main": "./dist/reconcile.js",
+  "types": "./dist/reconcile.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/reconcile.d.ts",
+      "default": "./dist/reconcile.js"
+    }
+  },
+  "bin": {
+    "numi-reconcile": "./dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig.build.json",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "typescript": "~5.9.3",
+    "vitest": "^5.0.5"
+  }
+}
