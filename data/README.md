@@ -1,6 +1,6 @@
 # Example data
 
-`sample-100.csv` holds the segments of the companies in the numi bulk sample: up to 100 companies whose newest annual filing that is not an amendment has a reconciled business axis in US dollars, the largest by the revenue of that axis. It has one row for each segment of that filing, on every axis that the filing has.
+`sample-100.csv` holds the segments of up to 100 companies whose newest annual filing that is not an amendment has a reconciled business axis in US dollars, the largest by the revenue of that axis. It has one row for each segment of that filing, on every axis that the filing has.
 
 | Column | Holds |
 |---|---|
